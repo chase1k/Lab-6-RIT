@@ -1,0 +1,4 @@
+QTree: -1 255 170 85 0
+Raw image size: 256
+Compressed image size: 6
+Compression %: 97.65625
